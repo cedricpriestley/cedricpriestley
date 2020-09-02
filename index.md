@@ -16,7 +16,7 @@ Syntax highlighted code block
 ### Header 3
 
 - Bulleted
-- List
+- List to
 
 1. Numbered
 2. List
@@ -38,4 +38,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 PDF Test
-<embed src="https://cedricpriestley.github.io/employment-application.pdf" type="application/pdf" />
+<embed src=cedricpriestley.github.io/cedricpriestley/employment-application.pdf" type="application/pdf" />
+cedricpri

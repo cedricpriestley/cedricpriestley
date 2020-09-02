@@ -38,5 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 PDF Test
-<embed src=cedricpriestley.github.io/cedricpriestley/employment-application.pdf" type="application/pdf" />
-cedricpri
+<embed src="https://cedricpriestley.github.io/cedricpriestley/employment-application.pdf" type="application/pdf" />
